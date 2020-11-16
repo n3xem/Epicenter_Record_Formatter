@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "max_seisemic_intensity": " ",
+            "large_area_class_num": "4",
+            "small_area_class_num": "142",
+            "epicenter_name": "TOYAMA GIFU BORDER REG  ",
+            "time": "2019-02-01 00:01:40"
+        },
+        {
+            "max_seisemic_intensity": " ",
+            "large_area_class_num": "2",
+            "small_area_class_num": " 62",
+            "epicenter_name": "E OFF IWATE PREF        ",
+            "time": "2019-02-01 00:09:29"
+        }
+    ]
+}
